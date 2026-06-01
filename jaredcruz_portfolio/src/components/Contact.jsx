@@ -87,7 +87,7 @@ function Contact() {
                         );
                     })}
 
-                    <a href="/resume/Resume.pdf" download className="resume-line">
+                    <a href="/resume/Resume1.pdf" download className="resume-line">
                         <HiOutlineDownload />
                         Download Resume
                     </a>

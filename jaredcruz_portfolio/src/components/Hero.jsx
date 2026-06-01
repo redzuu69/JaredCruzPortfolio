@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { ArrowRight, Download, Code2, Smartphone, BarChart3, Palette } from "lucide-react";
 
 function Hero() {
-    const title = "Full-Stack Developer building modern web and mobile systems";
+    const title = "Building modern web and mobile systems";
 
     const highlights = [
         { icon: <Code2 size={18} />, label: "React + Django" },
@@ -48,7 +48,7 @@ function Hero() {
                             View Projects <ArrowRight size={17} />
                         </a>
 
-                        <a href="/resume/Jared_Cruz_Resume.pdf" download className="btn secondary-btn">
+                        <a href="/resume/Resume1.pdf" download className="btn secondary-btn">
                             Download Resume <Download size={17} />
                         </a>
                     </motion.div>
